@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "title": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+      "cover_image": "https://eloquentjavascript.net/2nd_edition/img/cover.png",
+      "author": "Marijn Haverbeke",
+      "pages": "474",
+      "releaseDate": "2018",
+      "id": 2
+    },
+    {
+      "title": "Secrets of the JavaScript Ninja",
+      "cover_image": "https://images.manning.com/book/a/b85f344-edd7-4833-adf3-d98878088441/resig.png",
+      "author": "Bear Bibeault and John Resig",
+      "pages": "708",
+      "releaseDate": "2008",
+      "id": 4
+    },
+    {
+      "title": "Design Patterns Elements of Reusable Object-Oriented Software",
+      "cover_image": "https://learning.oreilly.com/library/cover/0201633612/550w/",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "pages": "416",
+      "releaseDate": "1994",
+      "id": 5
+    },
+    {
+      "title": "",
+      "cover_image": "",
+      "author": "",
+      "pages": "1",
+      "releaseDate": "",
+      "id": 6
+    }
+  ]
+}
